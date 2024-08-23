@@ -3,3 +3,5 @@
 - Dormir
 - Jugar
 - Estar dioquis
+
+pepe pica papas
