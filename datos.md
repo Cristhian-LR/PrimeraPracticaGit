@@ -2,6 +2,6 @@
 ## 15186
 - Dormir
 - Jugar
-- Estar dioquis
+- dormir otra vez
 
-pepe pica papas
+hola mundo
