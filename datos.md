@@ -6,4 +6,4 @@
 
 hola mundo
 
-![imagen](3Fostacio.webp)
+![imagen](3Fostacio.webp?raw=true)
