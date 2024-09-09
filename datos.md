@@ -2,8 +2,8 @@
 ## 15186
 - Dormir
 - Jugar
-- dormir otra vez
+- etc
 
 hola mundo
 
-![imagen](img.png?raw=true)
+[imagen](img.png?raw=true)
